@@ -19,9 +19,9 @@ installing three js
 for better environment workspace, use VITE
 
 VITE setup
--"npm install --save-dev vite"
--"vite --version" to check if correctly installed
--"npm init vite" to initialize it
+- "npm install --save-dev vite"
+- "vite --version" to check if correctly installed
+- "npm init vite" to initialize it
 
 with vite, node & three js setup
 
