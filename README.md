@@ -25,11 +25,11 @@ VITE setup
 
 with vite, node & three js setup
 
-run the following command in terminal
+run the following command in terminal:  
 "npm run dev"
--you shoulde a localhost url
+- you shoulde a localhost url
+- then type "o" and enter
 
-then type "o" and enter
 
 
 to the world
