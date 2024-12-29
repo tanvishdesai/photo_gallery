@@ -421,8 +421,8 @@ function animate() {
     new THREE.Vector3(10, 2, 19.999)
   );
   painting2back.userData.info = {
-    title: 'Unkonwn',
-    description: 'On an uneventful day, I clicked this'
+    title: 'The Only Women of Importance',
+    description: 'Mom'
   };
   painting2back.rotation.y = Math.PI
 
